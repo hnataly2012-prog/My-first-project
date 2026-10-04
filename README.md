@@ -1,2 +1,2 @@
 # My-first-project
-# Начало освоения GitHub
+# *Освоение GitHub в процессе*
